@@ -9,6 +9,10 @@ public class CalculateController {
 	private double result;
 	
 	
+	/**
+	 * 取得numA的值
+	 * @return
+	 */
 	public double getNumA() {
 		return numA;
 	}
