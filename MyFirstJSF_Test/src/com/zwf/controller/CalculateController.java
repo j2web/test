@@ -21,6 +21,10 @@ public class CalculateController {
 		this.numA = numA;
 	}
 
+	/**
+	 * 取得numB的值
+	 * @return
+	 */
 	public double getNumB() {
 		return numB;
 	}
